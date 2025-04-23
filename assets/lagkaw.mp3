@@ -1,1 +1,5 @@
+<audio id="bg-music" src="assets/lagkaw.mp3" preload="auto"></audio>
+<button onclick="document.getElementById('bg-music').play()" style="margin-top: 30px; font-size: 16px; padding: 10px 20px; background: #ff69b4; color: white; border: none; border-radius: 10px; cursor: pointer;">
+  🎶 Click to Play "Lagkaw"
+</button>
 
