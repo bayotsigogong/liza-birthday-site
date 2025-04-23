@@ -1,4 +1,6 @@
-    <audio id="bg-music" src="assets/lagkaw.mp3" preload="auto"></audio>
-    <button class="button" onclick="document.getElementById('bg-music').play()">
-      🎶 Click to Play "Lagkaw"
-    </button>
+ <h1 class="glow-text">Happy Birthday, My Liza 💖</h1>
+  <p class="glow-text">Click the button below to relive our sweetest memories 😍</p>
+  <div class="container">
+    <button onclick="window.location.href='memories.html'">View Memories</button>
+    <img src="images/your-photo.jpg" alt="Sweet Photo">
+  </div>
