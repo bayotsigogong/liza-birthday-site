@@ -1,4 +1,4 @@
-<audio autoplay loop>
-  <source src="assets/LagkawBisayaSong.mp3" type="audio/mpeg">
-  Your browser does not support the audio element.
-</audio>
+    <audio id="bg-music" src="assets/lagkaw.mp3" preload="auto"></audio>
+    <button class="button" onclick="document.getElementById('bg-music').play()">
+      🎶 Click to Play "Lagkaw"
+    </button>
